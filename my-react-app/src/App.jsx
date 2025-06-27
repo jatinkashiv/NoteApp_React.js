@@ -3,6 +3,6 @@ import AddNote from "./components/AddNote";
 import NoteList from "./components/NoteLists";
 
 function App() {
-  return;
+  return <div></div>;
 }
 export default App;
